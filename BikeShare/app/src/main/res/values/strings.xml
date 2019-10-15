@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BikeShare</string>
+    <string name="what_bike">What bike?</string>
+    <string name="where">Where?</string>
+    <string name="last_added">Last added</string>
+    <string name="add_ride">Add ride</string>
+    <string name="end_ride">End Ride</string>
+    <string name="list_rides">List Rides</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleteRideDialogTitle">Are you sure you want to delete this ride?</string>
+    <string name="add_bike">Add bike</string>
+    <string name="name_of_bike">Name of bike:\u0020</string>
+    <string name="price_per_hour">Price per hour:\u0020</string>
+    <string name="bikeImage">image of a bike</string>
+    <string name="register_bike">Register Bike</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_camera">Change camera</string>
+    <string name="take_picture">Take picture</string>
+    <string name="vacant_bikes">Vacant bikes</string>
+    <string name="in_use">In use</string>
+    <string name="freeStatus">Free</string>
+    <string name="free">Free</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="id">ID:\u0020</string>
+    <string name="name">Name:\u0020</string>
+    <string name="status">Status:\u0020</string>
+    <string name="rides">Rides:\u0020</string>
+    <string name="bike_id">Bike ID:\u0020</string>
+    <string name="start_location">Start location:\u0020</string>
+    <string name="rent_bike">Rent bike</string>
+    <string name="sign_out">Sign out</string>
+    <string name="account">Account</string>
+    <string name="started">Started:</string>
+    <string name="price">Price:</string>
+</resources>
