@@ -39,6 +39,8 @@ You are encouraged to make a nice, user friendly, powerful, reliable and robust 
 
 ### Key Functions
 
+![Activities](https://raw.githubusercontent.com/Mertzdawg/MMAD_BikeShare/master/activities.PNG)
+
 * Google Sign-In - Login using the Google Play Service API. If logging in for the first time a
 BikeShare account with 1000 credits is made using the Google id as key for the RealmObject.
 In the AccountActivity information can be seen in terms of email, username and Google profile
