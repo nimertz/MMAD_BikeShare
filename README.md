@@ -1,5 +1,5 @@
-# BikeShare
-## Android app created during the 4. semester course Mobile App Development 
+# BikeShare Android app
+## Simple Android app created during the 4. semester course "Mobile App Development" of my BSc in Software Development
 
 * The App uses Google Sign-In so a SHA-1 fingerprint needs to be added to a Google API Console Project. 
 * In addition the app uses Google Maps so a Google Maps API key is needed for seeing ride locations. 
